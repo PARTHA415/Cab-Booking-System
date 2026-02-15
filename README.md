@@ -162,25 +162,6 @@ cd ..
 java -cp bin com.cabbooking.Main
 ```
 
-**Or simply use the run script:**
-```cmd
-# Windows
-run.bat
-
-# Linux/Mac
-chmod +x run.sh
-./run.sh
-```
-
-### Using Gradle
-```bash
-# Run
-./gradlew run
-
-# Build JAR
-./gradlew jar
-```
-
 ## Sample Output
 
 ```
