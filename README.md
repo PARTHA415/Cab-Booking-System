@@ -68,9 +68,6 @@ CabBookingSystem/
 │           └── singleton/                   # Singleton Pattern
 │               └── LocationService.java     # Cached location service
 │
-├── bin/                                     # Compiled classes
-├── build.gradle                             # Gradle build file
-├── settings.gradle                          # Gradle settings
 └── README.md                                # This file
 ```
 
